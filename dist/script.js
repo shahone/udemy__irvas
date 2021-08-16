@@ -17811,7 +17811,7 @@ window.addEventListener('DOMContentLoaded', function () {
   'use strict';
 
   var modalState = {};
-  var deadline = '2021-03-08';
+  var deadline = '2021-03-12';
   Object(_modules_changeModalState__WEBPACK_IMPORTED_MODULE_4__["changeModalState"])(modalState);
   Object(_modules_modals__WEBPACK_IMPORTED_MODULE_1__["default"])();
   Object(_modules_tabs__WEBPACK_IMPORTED_MODULE_2__["tabs"])('.glazing_slider', '.glazing_block', '.glazing_block a', '.glazing_content', 'active');
